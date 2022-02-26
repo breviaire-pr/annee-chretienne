@@ -1,0 +1,44 @@
+{
+    "default": "03",
+
+    "books": [
+        ["03", "III. 1ère p. du Carême: Cendres–III. Dimanche"],
+        ["04", "IV. 2ème p. du Carême: III. Semaine–Rameaux"],
+        ["05", "V. Semaine Sainte & Semaine de Pâques"],
+        ["06", "VI. Quasimodo–Veille de la Pentecôte"],
+        ["07", "VII. Veille de la Pentecôte–Dim. Oct. Saint-Sacrement"]
+    ],
+
+    "folders": {
+
+        "03":
+        ["L’Année Chrétienne. Tome III.",
+            "Bruxelles, Lambert Marchant", 1688,
+            "https://books.google.fr/books?id=L0FPAAAAcAAJ&hl=fr", {           
+        }],
+
+        "04":
+        ["L’Année Chrétienne. Tome IV.",
+            "Bruxelles, Lambert Marchant", 1688,
+            "https://books.google.fr/books?id=ZkFPAAAAcAAJ&hl=fr", {           
+        }],
+
+        "05":
+        ["L’Année Chrétienne. Tome V.",
+            "Bruxelles, Lambert Marchant", 1689,
+            "https://books.google.fr/books?id=j0FPAAAAcAAJ&hl=fr", {           
+        }],
+
+        "06":
+        ["L’Année Chrétienne. Tome VI.",
+            "Bruxelles, Lambert Marchant", 1683,
+            "https://books.google.fr/books?id=L0FPAAAAcAAJ&hl=fr", {           
+        }],
+
+        "07":
+        ["L’Année Chrétienne. Tome VII.",
+            "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
+            "https://books.google.fr/books?id=j3fbM2fgaWwC&hl=fr", {           
+        }]
+    }
+}

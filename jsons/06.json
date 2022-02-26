@@ -1,0 +1,13 @@
+{
+    "folder": "06",
+    "offset": 23,
+    "min": -23,
+    "max": 666,
+    "chapters": [
+        ["Titre", -23],
+        ["L’Ordinaire de la Sainte Messe", -21],
+        ["Approbations", 0],
+        ["L’Année Chrétienne", 1],
+        ["Les Propre des Saints", 224]
+    ]
+}

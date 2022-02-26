@@ -1,0 +1,13 @@
+{
+    "folder": "03",
+    "offset": -1,
+    "min": 1,
+    "max": 591,
+    "chapters": [
+        ["Titre", 1],
+        ["Au Lecteur", 3],
+        ["L’Ordinaire de la Sainte Messe", 5],
+        ["Le Carême chrétien", 31],
+        ["Les Messes des Saints", 385]
+    ]
+}

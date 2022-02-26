@@ -1,0 +1,13 @@
+{
+    "folder": "07",
+    "offset": 27,
+    "min": -27,
+    "max": 836,
+    "chapters": [
+        ["Titre", -27],
+        ["L’Ordinaire de la Sainte Messe", -25],
+        ["L’Année Chrétienne", 1],
+        ["Les Messes des Saints", 337],
+        ["Approbation", 836]
+    ]
+}
