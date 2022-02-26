@@ -1,8 +1,8 @@
-# [L’Année Chrétienne de Nicolas Le Tourneux](https://missel.sacy.be/)
+# [*L’Année Chrétienne* de Nicolas Le Tourneux](https://missel.sacy.be/)
 
 ## Description
 
-Ce dépôt comprend les fichiers du site web statique [bible.sacy.be](https://missel.sacy.be/) qui permet de visualiser les pages des livres de *L’Année Chrétienne* de Nicolas Le Tourneux.
+Ce dépôt comprend les fichiers du site web statique [missel.sacy.be](https://missel.sacy.be/) qui permet de visualiser les pages des livres de *L’Année Chrétienne* de Nicolas Le Tourneux.
 
 ## Conditions d’utilisation
 
