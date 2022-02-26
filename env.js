@@ -61,7 +61,7 @@ const UI_ENV = {
         },
         {
             title: 'code source du site web',
-            url: 'https://github.com/heures-port-royal/heures-port-royal.github.io'
+            url: 'https://github.com/breviaire-pr/annee-chretienne'
         },
         {
             title: 'autres œuvres de Port-Royal',
