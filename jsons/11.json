@@ -1,0 +1,12 @@
+{
+    "folder": "11",
+    "offset": 23,
+    "min": -23,
+    "max": 740,
+    "chapters": [
+        ["Titre", -23],
+        ["L’Ordinaire de la Messe", -21],
+        ["Le Mercredi des IV. Tems", 1],
+        ["Le Propre des Saints", 248]
+    ]
+}
