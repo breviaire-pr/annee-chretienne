@@ -1,0 +1,15 @@
+{
+    "folder": "01",
+    "offset": 35,
+    "min": -35,
+    "max": 708,
+    "chapters": [
+        ["Titre", -35],
+        ["Épître dédicatoire", -33],
+        ["Préface sur le Temps de l’Avent", -29],
+        ["L’Ordinaire de la Sainte Messe", -25],
+        ["L’Année Chrétienne", 1],
+        ["Les Messes des Saints", 185],
+        ["Approbations", 706]
+    ]
+}

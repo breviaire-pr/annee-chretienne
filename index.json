@@ -1,7 +1,8 @@
 {
-    "default": "03",
+    "default": "01",
 
     "books": [
+        ["01", "I–Avent-Octave de l’Épiphanie"],
         ["03", "III–1ère p. du Carême: Cendres–III. Dimanche"],
         ["04", "IV–2ème p. du Carême: III. Semaine–Rameaux"],
         ["05", "V–Semaine Sainte & Semaine de Pâques"],
@@ -15,6 +16,12 @@
     ],
 
     "folders": {
+
+        "01":
+        ["L’Année Chrétienne. Tome I.",
+            "Bruxelles, Lambert Marchant", 1687,
+            "https://books.google.fr/books?id=r0BPAAAAcAAJ&hl=fr", {           
+        }],
 
         "03":
         ["L’Année Chrétienne. Tome III.",
@@ -74,6 +81,12 @@
         ["L’Année Chrétienne. Tome XII.",
             "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
             "https://books.google.fr/books?id=HVQiIvwsVVwC&hl=fr", {           
+        }],
+
+        "13":
+        ["L’Année Chrétienne. Tome XIII.",
+            "Paris, Josse, Robustel", 1723,
+            "https://books.google.fr/books?id=5uRH1lPG5T0C&hl=fr", {           
         }]
     }
 }
