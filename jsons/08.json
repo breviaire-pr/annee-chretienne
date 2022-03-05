@@ -1,0 +1,13 @@
+{
+    "folder": "08",
+    "offset": 21,
+    "min": -21,
+    "max": 535,
+    "chapters": [
+        ["Titre", -21],
+        ["L’Ordinaire de la Messe", -19],
+        ["Le Troisième Dimanche après la Pentecôte", 1],
+        ["Propre des Saints", 121],
+        ["Approbations", 534]
+    ]
+}
