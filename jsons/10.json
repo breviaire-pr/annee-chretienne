@@ -1,0 +1,13 @@
+{
+    "folder": "10",
+    "offset": 23,
+    "min": -23,
+    "max": 588,
+    "chapters": [
+        ["Titre", -23],
+        ["L’Ordinaire de la Messe", -21],
+        ["Le Quatorzième Dimanche après la Pentecôte", 1],
+        ["Le Propre des Saints", 147],
+        ["Approbations", 587]
+    ]
+}

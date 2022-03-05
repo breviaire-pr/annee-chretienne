@@ -1,0 +1,12 @@
+{
+    "folder": "09",
+    "offset": 23,
+    "min": -23,
+    "max": 624,
+    "chapters": [
+        ["Titre", -23],
+        ["L’Ordinaire de la Messe", -21],
+        ["Le Huitième Dimanche après la Pentecôte", 1],
+        ["Le Propre des Saints", 220]
+    ]
+}

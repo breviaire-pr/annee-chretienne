@@ -7,7 +7,9 @@
         ["05", "V–Semaine Sainte & Semaine de Pâques"],
         ["06", "VI–Quasimodo–Veille de la Pentecôte"],
         ["07", "VII–Veille de la Pentecôte–Dim. Oct. Saint-Sacrement"],
-        ["08", "VIII–III.-VII. Dimanches après la Pentecôte"]
+        ["08", "VIII–III.-VII. Dimanches après la Pentecôte"],
+        ["09", "IX–VIII.-XIV. Dimanches après la Pentecôte"],
+        ["10", "X–XIV.-XVIII. Dimanches après la Pentecôte"]
     ],
 
     "folders": {
@@ -46,6 +48,18 @@
         ["L’Année Chrétienne. Tome VIII.",
             "Paris, Desaint & Saillant, Thiboust, De Hansy, Savoye, Le Prieur", 1756,
             "https://books.google.fr/books?id=WKducbSXwBMC&hl=fr", {           
+        }],
+
+        "09":
+        ["L’Année Chrétienne. Tome IX.",
+            "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
+            "https://books.google.fr/books?id=O4HtBVxPULAC&hl=fr", {           
+        }],
+
+        "10":
+        ["L’Année Chrétienne. Tome X.",
+            "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
+            "https://books.google.fr/books?id=cXs-D8EcHuoC&hl=fr", {           
         }]
     }
 }
