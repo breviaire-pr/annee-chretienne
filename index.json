@@ -13,85 +13,86 @@
         ["09", "9. VIII.-XIV. Dimanches après la Pentecôte"],
         ["10", "10. XIV.-XVIII. Dimanches après la Pentecôte"],
         ["11", "11. XVIII.-XXII. Dimanches après la Pentecôte"],
-        ["12", "12. XXII. Dimanche après la Pentecôte–I. Dimanche de l’Avent"]
+        ["12", "12. XXII. Dimanche après la Pentecôte–I. Dimanche de l’Avent"],
+        ["13", "13. Les Messes Votives pour toute l’année"]
     ],
 
     "folders": {
 
         "01":
-        ["L’Année Chrétienne. Tome I.",
+        ["L’Année Chrétienne, Tome I",
             "Bruxelles, Lambert Marchant", 1687,
             "https://books.google.fr/books?id=r0BPAAAAcAAJ&hl=fr", {           
         }],
 
         "02":
-        ["L’Année Chrétienne. Tome II.",
+        ["L’Année Chrétienne, Tome II",
             "Bruxelles, Lambert Marchant", 1688,
             "https://books.google.fr/books?id=80BPAAAAcAAJ&hl=fr", {           
         }],
 
         "03":
-        ["L’Année Chrétienne. Tome III.",
+        ["L’Année Chrétienne, Tome III",
             "Bruxelles, Lambert Marchant", 1688,
             "https://books.google.fr/books?id=L0FPAAAAcAAJ&hl=fr", {           
         }],
 
         "04":
-        ["L’Année Chrétienne. Tome IV.",
+        ["L’Année Chrétienne, Tome IV",
             "Bruxelles, Lambert Marchant", 1688,
             "https://books.google.fr/books?id=ZkFPAAAAcAAJ&hl=fr", {           
         }],
 
         "05":
-        ["L’Année Chrétienne. Tome V.",
+        ["L’Année Chrétienne, Tome V",
             "Bruxelles, Lambert Marchant", 1689,
             "https://books.google.fr/books?id=j0FPAAAAcAAJ&hl=fr", {           
         }],
 
         "06":
-        ["L’Année Chrétienne. Tome VI.",
+        ["L’Année Chrétienne, Tome VI",
             "Bruxelles, Lambert Marchant", 1683,
             "https://books.google.fr/books?id=L0FPAAAAcAAJ&hl=fr", {           
         }],
 
         "07":
-        ["L’Année Chrétienne. Tome VII.",
+        ["L’Année Chrétienne, Tome VII",
             "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
             "https://books.google.fr/books?id=j3fbM2fgaWwC&hl=fr", {           
         }],
 
         "08":
-        ["L’Année Chrétienne. Tome VIII.",
+        ["L’Année Chrétienne, Tome VIII",
             "Paris, Desaint & Saillant, Thiboust, De Hansy, Savoye, Le Prieur", 1756,
             "https://books.google.fr/books?id=WKducbSXwBMC&hl=fr", {           
         }],
 
         "09":
-        ["L’Année Chrétienne. Tome IX.",
+        ["L’Année Chrétienne, Tome IX",
             "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
             "https://books.google.fr/books?id=O4HtBVxPULAC&hl=fr", {           
         }],
 
         "10":
-        ["L’Année Chrétienne. Tome X.",
+        ["L’Année Chrétienne, Tome X",
             "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
             "https://books.google.fr/books?id=cXs-D8EcHuoC&hl=fr", {           
         }],
 
         "11":
-        ["L’Année Chrétienne. Tome XI.",
+        ["L’Année Chrétienne, Tome XI",
             "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
             "https://books.google.fr/books?id=Odo8sxGfMkoC&hl=fr", {           
         }],
 
         "12":
-        ["L’Année Chrétienne. Tome XII.",
+        ["L’Année Chrétienne, Tome XII",
             "Paris, De Hansy, Savoye, Le Prieur, Vve Thiboust", 1757,
             "https://books.google.fr/books?id=HVQiIvwsVVwC&hl=fr", {           
         }],
 
         "13":
-        ["L’Année Chrétienne. Tome XIII.",
+        ["L’Année Chrétienne, Tome XIII",
             "Paris, Josse, Robustel", 1723,
             "https://books.google.fr/books?id=5uRH1lPG5T0C&hl=fr", {           
         }]
