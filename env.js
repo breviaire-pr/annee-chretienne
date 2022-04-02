@@ -54,6 +54,7 @@ const UI_ENV = {
     chapterSelectorLabel: 'P.',
     numberFormat: n => String(n).padStart(3, '0'),
     sites,
+    footerText: "Digitized by Google",
     links: [
         {
             title: 'Remarque, erreur ? contact@sacy.be',
